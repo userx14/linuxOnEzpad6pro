@@ -35,7 +35,7 @@ deb-src http://deb.debian.org/debian/ stretch-updates main contrib
 
 4) enter the directory of the kernel
 
-```cd linux-4.20.2```
+```cd Downloads/linux-4.20.2```
 
 5) clean the repository
 
