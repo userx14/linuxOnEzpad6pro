@@ -1,0 +1,3 @@
+[submodule "rtl8723bu"]
+	path = rtl8723bu
+	url = https://github.com/lwfinger/rtl8723bu
