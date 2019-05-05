@@ -25,9 +25,9 @@ deb-src http://deb.debian.org/debian/ stretch-updates main contrib
 
 ```sudo apt-get install dmidecode build-essential libncurses-dev bison flex libssl-dev libelf-dev```
 
-2) get latest (4.20.2 at the moment of creation of this) linux kernel from kernel.org
+2) get latest linux kernel from kernel.org
 
-```wget https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.20.2.tar.xz -P ./Downloads```
+```wget https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.0.11.tar.xz -P ./Downloads```
 
 3) extract the archive's content
 
